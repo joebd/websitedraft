@@ -1,6 +1,10 @@
 title: "Simple Webpage Demo" 
-description: "This webpage has a theme."
+description: "Home" 
 email: "NA" 
 remote_theme: just-the-docs/just-the-docs
-color: black
+color: dark
 permalink: pretty
+search_enabled: false
+enable_copy_code_button: true
+back_to_top: true
+back_to_top_text: "Back to top"
