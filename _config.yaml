@@ -1,10 +1,20 @@
-title: "Simple Webpage Demo" 
-description: "Home" 
-email: "NA" 
-remote_theme: just-the-docs/just-the-docs
-color: dark
+title: Simple Website Demo
+email: "NA"
+description: >- This is a demo 
+baseurl: "/websitedraft" 
+url: "https://joebd.github.io"
+github_username: joebd
+
 permalink: pretty
 search_enabled: false
 enable_copy_code_button: true
 back_to_top: true
 back_to_top_text: "Back to top"
+
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+plugins: 
+  - jekyll-feed
+  - jekll-seo-tag
+  
+  
