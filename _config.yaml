@@ -11,6 +11,9 @@ enable_copy_code_button: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
+exclude: 
+  - README.md
+
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
