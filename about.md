@@ -14,7 +14,7 @@ about page
 
 
 [1.1]: (images/gu_low.png) 
-[2.1]: http://i.imgur.com/P3YfQoD.png (linkedlin icon with padding)
+[2.1]: https://github.com/joebd/websitedraft/blob/main/images/lin_low.png (linkedlin icon with padding)
 
 
 
