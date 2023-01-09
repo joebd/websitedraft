@@ -14,5 +14,6 @@ back_to_top_text: "Back to top"
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
-  
+ga_tracking: # id
+ga_tracking_anonymize_ip:  # Use GDPR compliant Google Analytics settings (true/nil by default)
   
