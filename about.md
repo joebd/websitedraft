@@ -9,11 +9,11 @@ permalink: /about
 
 about page 
 
-[![alt text][images/gu_low.png]][1]
+[![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
 
-[1.1]: test
+[1.1](images/lin_low.png)
 [2.1]: https://github.com/joebd/websitedraft/blob/main/images/lin_low.png (linkedlin icon with padding)
 
 
