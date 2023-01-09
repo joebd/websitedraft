@@ -12,5 +12,5 @@ Porfolio page
 
 
 ## [Project 1](https://joebd.github.io/websitedraft) : This is a description for project one. 
-![test image](ph.png)
+![test image](_images/ph.png)
 
