@@ -10,59 +10,22 @@ permalink: /porfolio
 Porfolio page 
 
 ## [Project 1](https://joebd.github.io/websitedraft) : This is a description for project one. # Replace url with project link 
-![test image](images/ph.png) # This code works - DONT DELETE PLZ 
+![test image](images/ph.png) 
 
 
-## [Project 2](https://joebd.github.io/websitedraft) : This is a description for project one. 
+## [Project 2](https://joebd.github.io/websitedraft) : This is a description for project two. 
 ![test image](images/ph.png)
 
 
-## [Project 3](https://joebd.github.io/websitedraft) : This is a description for project one. 
+## [Project 3](https://joebd.github.io/websitedraft) : This is a description for project three. 
 ![test image](images/ph.png)
 
 
-## [Project 4](https://joebd.github.io/websitedraft) : This is a description for project one. 
+## [Project 4](https://joebd.github.io/websitedraft) : This is a description for project four. 
 ![test image](images/ph.png) 
 
 
 
-
-
-
-
-
-
-image file tests code 
-
-## [Project 1](https://joebd.github.io/websitedraft) : This is a description for project one. 
-
-![test image](images/ph.png) # This code works - DONT DELETE PLZ 
-
-[test image1.1](images/ph.png)
-
-
-[test image 2]("image/ph.png")
-
-
-[test image 3]: .images/ph.png
-
-
-![test image 3]: .images/ph.png
-
-
-[test image 4][images/ph.png]
-
-
-![test image 4][images/ph.png]
-
-
-[test image 5]["images/ph.png"]
-
-
-![test image 5]["images/ph.png"]
-
-
-![test image](ph.png)
 
 
 
