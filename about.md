@@ -10,8 +10,8 @@ permalink: /about
 about page 
 
 
-[![LinkedIn](images/lin_low.png)](https://github.com/joebd)
+[![LinkedIn](images/lin_low.png)](https://github.com/joebd) [![Github](images/gu_low.png)](https://github.com/joebd)
 
-[![Github](images/gu_low.png)](https://github.com/joebd)
+View the website repository on Github: URL here
 
 
