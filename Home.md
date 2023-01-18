@@ -15,6 +15,6 @@ This is a main page example.
 
 
 
-https://joebd.github.io/folder/test.pdf
+https://joebd.github.io/documents/test.pdf
 
-<a href="joebd.github.io/folder/test.pdf" target="_blank">PDF.</a>
+<a href="joebd.github.io/documents/test.pdf" target="_blank">PDF.</a>
