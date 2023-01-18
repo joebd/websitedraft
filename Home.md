@@ -11,3 +11,10 @@ permalink: /
 This is the home page 
 
 This is a main page example. 
+
+
+
+
+https://username.github.io/folder/test.pdf
+
+<a href="joebd.github.io/folder/test.pdf" target="_blank">PDF.</a>
