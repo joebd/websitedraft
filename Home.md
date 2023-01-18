@@ -15,5 +15,5 @@ This is a main page example.
 
 https://joebd.github.io/websitedraft/documents/test.pdf
 
-<a href="https://joebd.github.io/websitedraft/documents/test.pdf" target="_blank">PDF.</a>
+<a href="https://joebd.github.io/websitedraft/documents/test.pdf" target="_blank">Download Project One PDF</a>
 
