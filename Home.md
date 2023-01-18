@@ -13,8 +13,7 @@ This is the home page
 This is a main page example. 
 
 
+https://joebd.github.io/websitedraft/documents/test.pdf
 
+<a href="https://joebd.github.io/websitedraft/documents/test.pdf" target="_blank">PDF.</a>
 
-https://joebd.github.io/documents/test.pdf
-
-<a href="joebd.github.io/documents/test.pdf" target="_blank">PDF.</a>
